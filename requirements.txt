@@ -1,0 +1,49 @@
+# UI
+streamlit
+
+# Audio / YouTube
+yt-dlp
+pytubefix
+ffmpeg-python
+
+# Local speech-to-text
+openai-whisper
+
+# Audio processing
+torch
+torchaudio
+librosa
+soundfile
+
+# Translation
+deep-translator
+
+# LangChain / LCEL
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Mistral API
+mistralai
+
+# RAG / Vector Database
+chromadb
+sentence-transformers
+
+# HuggingFace
+transformers
+huggingface-hub
+
+# PDF / document export
+reportlab
+
+# Environment variables
+python-dotenv
+
+# Utilities
+numpy
+pandas
+requests
+tqdm
+
