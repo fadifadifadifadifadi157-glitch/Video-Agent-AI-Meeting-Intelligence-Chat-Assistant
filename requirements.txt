@@ -15,6 +15,7 @@ torch
 torchaudio
 librosa
 soundfile
+torchvision
 
 # Translation
 deep-translator
