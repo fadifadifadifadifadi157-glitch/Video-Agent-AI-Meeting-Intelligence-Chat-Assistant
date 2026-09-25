@@ -5,6 +5,7 @@ streamlit
 yt-dlp
 pytubefix
 ffmpeg-python
+pydub
 
 # Local speech-to-text
 openai-whisper
@@ -26,6 +27,8 @@ langchain-text-splitters
 
 # Mistral API
 mistralai
+# Groq API
+groq
 
 # RAG / Vector Database
 chromadb
