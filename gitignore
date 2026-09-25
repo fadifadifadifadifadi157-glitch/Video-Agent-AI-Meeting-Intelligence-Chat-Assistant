@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+downloads/
+vector_db/
+*.pyc
+.streamlit/secrets.toml
