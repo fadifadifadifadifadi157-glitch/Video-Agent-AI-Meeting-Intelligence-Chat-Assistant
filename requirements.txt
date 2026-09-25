@@ -24,6 +24,7 @@ langchain
 langchain-core
 langchain-community
 langchain-text-splitters
+langchain-groq
 
 # Mistral API
 mistralai
