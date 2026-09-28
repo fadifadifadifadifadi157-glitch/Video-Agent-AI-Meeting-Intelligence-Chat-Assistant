@@ -193,9 +193,10 @@ Video Agent/
 ## ⚙️ Setup & Installation
 
 ### 1. Clone the repository
+
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd "Video Agent"
+git clone https://github.com/fadifadifadifadifadi157-glitch/Video-Agent-AI-Meeting-Intelligence-Chat-Assistant.git
+cd Video-Agent-AI-Meeting-Intelligence-Chat-Assistant
 ```
 
 ### 2. Create a virtual environment
@@ -386,6 +387,7 @@ This started as a personal/academic project. Contributions, suggestions, and iss
 
 ---
 
-## 📄 License
+## Author
+***Fowad Ajmal***
 
-This project is available for personal and educational use. Add a license of your choice (MIT, Apache 2.0, etc.) here.
+
