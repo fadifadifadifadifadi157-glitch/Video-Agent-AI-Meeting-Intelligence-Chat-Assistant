@@ -196,7 +196,7 @@ Video Agent/
 
 ```bash
 git clone https://github.com/fadifadifadifadifadi157-glitch/Video-Agent-AI-Meeting-Intelligence-Chat-Assistant.git
-cd Video-Agent-AI-Meeting-Intelligence-Chat-Assistant
+cd "Video Agent"
 ```
 
 ### 2. Create a virtual environment
