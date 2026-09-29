@@ -1,6 +1,6 @@
 # 🎥 Video Agent — AI Meeting Intelligence & Chat Assistant
 
-Turn any YouTube video or local recording into a **transcript, structured summary, extracted insights, and a chat assistant** you can ask questions to — powered by **Whisper**, **Groq LLMs**, and a **LangChain + ChromaDB RAG pipeline**, wrapped in a custom black & gold **Streamlit** UI.
+Turn any YouTube video or local recording into a **transcript, structured summary, extracted insights, and a chat assistant** you can ask questions to powered by **Whisper**, **Groq LLMs**, and a **LangChain + ChromaDB RAG pipeline**, wrapped in a custom black & gold **Streamlit** UI.
 
 ---
 
